@@ -15,3 +15,4 @@ print(int(3.8))
 print(int(3.0))
 
 print(float(3))
+
